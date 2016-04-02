@@ -1,0 +1,28 @@
+name: thenewsite
+favicon: null
+layout_spectrum: 0.6082941808272153
+typography_spectrum: 0.639022161019966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4738036822527647
+  lightness: 0.8016943677794188
+  saturation: 0.44812344922684133
+  rhythmicContrast: 0.8262686342932284
+purpose: []
